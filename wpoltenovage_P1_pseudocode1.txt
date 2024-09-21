@@ -1,0 +1,44 @@
+P1:
+# Initialize dimensions of mat 1 and 2 
+first_name = "Wade"
+last_name = "Poltenovage"
+rows = len(last_name)
+cols = len(first_name)
+
+Print the name and its length for first and last names
+
+Create method to write matrix to a file
+
+Calculate first matrix:
+Fill value of column 1 with digits starting at 0,0  with values starting at 1 and incrementing by +1
+Once the columns are filled, iterate rows.
+
+Calculate second matrix: 
+Fill value of row 1 with with digits starting at 0,0 with values starting at +2 and incrementing by +3
+Once rows are filled, iterate columns.
+
+Write mat1 to file
+
+Calculate second matrix: 
+Fill value of row 1 with with digits starting at 0,0 with values starting at +2 and incrementing by +3
+Once rows are filled, iterate columns.
+
+Write mat2 to file
+
+Calculate third matrix: 
+Initialize the number of rows at 2
+Initialize the number of columns at 4
+Fill value of row 1 with with digits starting at 0,0 with values starting at 10 and decrementing by -2
+Once rows are filled, iterate columns.
+
+Write mat3 to file
+
+Calculate 4th matrix: 
+Initialize the number of rows at 4
+Initialize the number of columns at 2
+Fill value of row 1 with with digits starting at 0,0 with values starting at -6 and incrementing by +1.5
+Once rows are filled, iterate columns.
+
+Write mat3 to file
+
+Print matrices are printed

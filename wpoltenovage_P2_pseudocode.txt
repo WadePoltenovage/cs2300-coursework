@@ -1,0 +1,19 @@
+P2:
+Define Functions
+Define read from file
+Define write to file
+Define add matrices
+Define matrices have same dimensions
+
+Request name of matrixA
+Request name of matrix
+
+Find files
+
+Call read file for matrices
+Call add file for matrices
+
+Write merged matrices to new file named wpoltenovage_p2_out12.txt as it is the only compatible files
+
+
+Print confirmed matrix addition and print new file name
