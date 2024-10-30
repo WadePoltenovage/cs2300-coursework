@@ -1,0 +1,1 @@
+The plain text matrix must have 4 column vectors as it is necessary for multiplying the matrix with the matrix B
