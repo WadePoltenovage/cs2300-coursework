@@ -1,0 +1,10 @@
+Pseudo Code:
+ask user for txt file to read
+read in 3x3 matrix from file to matrix D
+read in 3x1 matrix from file to matrix E
+initialize identity matrix 3x3
+subtract d from the identity matrix
+take the inverse of I - D
+multiply the inverse of I - D by E
+round the resulting matrix X to the nearest 10th
+print matrix x
