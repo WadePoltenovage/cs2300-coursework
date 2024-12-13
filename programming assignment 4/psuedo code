@@ -1,0 +1,7 @@
+define least squares regression function
+define plot line function
+open and read data.txt and sort the data into an array
+call least squares regression function on array
+call plot line function on least squares regression array
+print linear equation
+display graph of the linear equation
