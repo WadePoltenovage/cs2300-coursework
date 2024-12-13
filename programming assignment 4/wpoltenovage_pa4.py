@@ -53,7 +53,8 @@ def plot_regression_line(data, m, b):
 
 
 def main():
-    filename = 'testing.txt'
+    print("Please input the name of the file you would like to read:")
+    filename = input()
     data = read_data(filename)
     m, b = least_squares_regression(data)
     print(f'Linear Equation: y = {m:.1f}x + {b:.1f}')
